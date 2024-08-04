@@ -31,6 +31,7 @@ def main():
     print(get_text_from_one_site(TEST_STATEMENT_URL_PREV))
 
     print()
+    print()
 
     print('FOMC Statement 2:')
     print()
